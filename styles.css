@@ -196,3 +196,18 @@ body {
     border-color: white;
 }
 
+.motivative-text {
+    font-size: 36px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1f2937;
+}
+
+#copyright-text {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
