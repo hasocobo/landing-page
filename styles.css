@@ -144,6 +144,28 @@ body {
     text-align: center;
 }
 
+.sign-up-section {
+    padding-top: 100px;
+}
+
+.rectangle-container {
+    width: 1100px;
+    background: #3882f6;
+    border-radius: 10px;
+    padding: 40px;
+
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+
+}
+
 .bg-grey {
     background: #1f2937;
 }
@@ -160,9 +182,17 @@ body {
     color: white;
 }
 
+.text-bold {
+    font-weight: 600;
+}
+
 .margin-auto {
     margin-left: auto;
     margin-right: auto;
 }
 
+.border-white {
+    border: 2px solid;
+    border-color: white;
+}
 
